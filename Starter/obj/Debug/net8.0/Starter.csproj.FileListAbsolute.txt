@@ -12,3 +12,4 @@ E:\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-dat
 E:\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.pdb
 E:\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
 E:\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\ref\Starter.dll
+E:\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.sourcelink.json
